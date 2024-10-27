@@ -1,12 +1,5 @@
 import numpy as np
 from skimage.transform import rescale
-# This code is part of:
-#
-#   CMPSCI 370: Computer Vision, Spring 2024
-#   University of Massachusetts, Amherst
-#   Instructor: Subhransu Maji
-#
-#   Homework 4
 
 def mergeImages(im1, im2, transf):
     s = transf[2]
