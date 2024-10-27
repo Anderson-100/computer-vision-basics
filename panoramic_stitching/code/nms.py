@@ -1,11 +1,3 @@
-#This code is part of:
-#
-#  CMPSCI 370: Computer Vision, Spring 2024
-#  University of Massachusetts, Amherst
-#  Instructor: Subhransu Maji
-#
-#  Homework 4
-
 import numpy as np
 from scipy.ndimage.filters import maximum_filter
 from skimage.morphology import local_maxima
