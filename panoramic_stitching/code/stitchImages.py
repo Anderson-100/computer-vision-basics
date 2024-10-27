@@ -8,16 +8,7 @@ from computeMatches import computeMatches
 from mergeImages import mergeImages
 from ransac import ransac
 
-# This code is part of:
-#
-#   CMPSCI 370: Computer Vision, Spring 2024
-#   University of Massachusetts, Amherst
-#   Instructor: Subhransu Maji
-#
-#   Homework 4
-#
-# Read images
-
+# Read Images
 im1 = utils.imread('../data/umass_building_left.jpg') #left image
 
 i = 5
